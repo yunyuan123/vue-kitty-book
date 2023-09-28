@@ -21,6 +21,7 @@ onBeforeMount( async()=>{
 
 </script>
 
+
 <template>
     
     <section class="row tm-item-preview">
